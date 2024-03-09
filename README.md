@@ -1,2 +1,2 @@
-# CA-1
-Front-end Web Development
+# day - 17
+Responsive design of Spotify Clone
